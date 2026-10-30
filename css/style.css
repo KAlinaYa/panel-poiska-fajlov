@@ -48,6 +48,7 @@ body {
   border: 1px solid #edf2f7;
   border-radius: 16px;
   outline: none;
+  font-family: "Inter", sans-serif;
 }
 .form-input:focus {
   border-color: #6b7280;
@@ -56,6 +57,7 @@ body {
   border: none;
   border-radius: 16px;
   height: 56px;
+  font-family: "Inter", sans-serif;
 }
 .form__btn--filter {
   padding-inline: 36px 16px;
